@@ -267,10 +267,18 @@
         opacity: 1;
     }
 
+    .btn_price_mob {
+        display: flex;
+    }
+
     .page_item {
         font-size: 20px;
         padding-bottom: 10px;
         text-shadow: none;
+    }
+
+    .agree_field {
+        font-size: 10px;
     }
 
     .advantages {
